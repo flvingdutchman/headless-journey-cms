@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_commercial_heroes",
+  "info": {
+    "displayName": "Hero"
+  },
+  "options": {},
+  "attributes": {
+    "HeroText": {
+      "type": "string"
+    },
+    "HeroSubtext": {
+      "type": "string"
+    },
+    "HeroImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

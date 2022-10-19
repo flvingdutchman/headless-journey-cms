@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_content_blockquotes",
+  "info": {
+    "displayName": "Blockquote"
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "text"
+    }
+  }
+}
