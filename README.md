@@ -1,5 +1,9 @@
 # What is this?
 This repository contains Strapi example configuration for [Headless Journey UI](https://github.com/vaninv/headless-journey) Angular application
+
+I left here database as well. 
+Login with credentials: admin@admin.local, password: iLoveStrapi123
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
